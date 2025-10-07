@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Browser%20Bookmarklet-blue)
 
-*Created by shadowxp*
+*Created by me aka shadowxp*
 
 </div>
 
@@ -557,7 +557,7 @@ Found a new race condition pattern? Add it to the patterns array:
 
 ## 📜 Credits
 
-**RACER v2.0 Elite** - Created by **shadowxp**
+**RACER v2.0 Elite** - Created by **me** aka **shadowxp**
 
 ### Acknowledgments
 - Inspired by real-world HackerOne reports
@@ -616,6 +616,6 @@ Having issues or questions?
 
 ---
 
-Made with ❤️ by shadowxp
+Made with ❤️ by me aka shadowxp
 
 </div>
